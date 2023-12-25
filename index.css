@@ -19,8 +19,7 @@
             width: 500px;
             height: 700px;
             transition: box-shadow 0.3s; 
-        
-}
+        }
 
 .custom-card:hover {
             box-shadow: 0 8px 8px rgba(0, 0, 0, 0.9);
